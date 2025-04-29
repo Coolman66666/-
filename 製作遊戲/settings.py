@@ -10,7 +10,7 @@ class Settings():
 
          # 飛船設定
         self.ship_speed = 10
-       # 子彈設定
+         # 子彈設定
         self.bullet_speed = 2.0
         self.bullet_width = 3
         self.bullet_height = 15
